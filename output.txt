@@ -1,0 +1,2271 @@
+
+
+----------------MENU---------------
+
+Press ESC to exit !
+-->> 0. Thoat
+    1. Random ma tran
+    2. Cong 2 ma tran
+    3. Tru 2 ma tran
+    4. Nhan 2 ma tran
+    5. Nhan vo huong
+    6. Dinh thuc cua ma tran
+    7. Hang cua ma tran
+    8. Ma tran nghich dao bang phu dai so
+    9. Ma tran nghich dao bang Gauss Jordan
+    10. Tri rieng, vector rieng cua ma tran
+
+----------------MENU---------------
+
+Press ESC to exit !
+-->> 0. Thoat
+    1. Random ma tran
+    2. Cong 2 ma tran
+    3. Tru 2 ma tran
+    4. Nhan 2 ma tran
+    5. Nhan vo huong
+    6. Dinh thuc cua ma tran
+    7. Hang cua ma tran
+    8. Ma tran nghich dao bang phu dai so
+    9. Ma tran nghich dao bang Gauss Jordan
+    10. Tri rieng, vector rieng cua ma tran
+
+----------------MENU---------------
+
+Press ESC to exit !
+    0. Thoat
+-->> 1. Random ma tran
+    2. Cong 2 ma tran
+    3. Tru 2 ma tran
+    4. Nhan 2 ma tran
+    5. Nhan vo huong
+    6. Dinh thuc cua ma tran
+    7. Hang cua ma tran
+    8. Ma tran nghich dao bang phu dai so
+    9. Ma tran nghich dao bang Gauss Jordan
+    10. Tri rieng, vector rieng cua ma tran
+
+1. Random ma tran
+Ma tran vua random: 
+2 2
+   -0.211009      0.522936  
+   42.079511    -49.908257  
+----------------MENU---------------
+
+Press ESC to exit !
+    0. Thoat
+-->> 1. Random ma tran
+    2. Cong 2 ma tran
+    3. Tru 2 ma tran
+    4. Nhan 2 ma tran
+    5. Nhan vo huong
+    6. Dinh thuc cua ma tran
+    7. Hang cua ma tran
+    8. Ma tran nghich dao bang phu dai so
+    9. Ma tran nghich dao bang Gauss Jordan
+    10. Tri rieng, vector rieng cua ma tran
+
+1. Random ma tran
+Ma tran vua random: 
+7 7
+   23.067278     36.422018     37.342508     48.370031     14.590214     46.146789     25.724771  
+   19.024465     29.253823     18.155963    -27.336391    -45.388379     -8.388379     21.464832  
+   -7.278287     -0.388379    -42.223242    -27.654434     33.183486    -28.724771     45.642202  
+  -43.657492    -27.290520    -21.923547     45.143731      7.174312     46.639144    -42.051988  
+  -35.801223    -15.535168    -26.290520      5.908257     10.446483     41.966361     19.021407  
+    3.507645    -38.284404     23.443425    -37.003058     18.844037     32.779817    -18.623853  
+   12.853211    -10.324159    -15.244648    -44.715596     27.189602    -42.177370    -12.458716  
+----------------MENU---------------
+
+Press ESC to exit !
+-->> 0. Thoat
+    1. Random ma tran
+    2. Cong 2 ma tran
+    3. Tru 2 ma tran
+    4. Nhan 2 ma tran
+    5. Nhan vo huong
+    6. Dinh thuc cua ma tran
+    7. Hang cua ma tran
+    8. Ma tran nghich dao bang phu dai so
+    9. Ma tran nghich dao bang Gauss Jordan
+    10. Tri rieng, vector rieng cua ma tran
+
+----------------MENU---------------
+
+Press ESC to exit !
+-->> 0. Thoat
+    1. Random ma tran
+    2. Cong 2 ma tran
+    3. Tru 2 ma tran
+    4. Nhan 2 ma tran
+    5. Nhan vo huong
+    6. Dinh thuc cua ma tran
+    7. Hang cua ma tran
+    8. Ma tran nghich dao bang phu dai so
+    9. Ma tran nghich dao bang Gauss Jordan
+    10. Tri rieng, vector rieng cua ma tran
+
+----------------MENU---------------
+
+Press ESC to exit !
+    0. Thoat
+-->> 1. Random ma tran
+    2. Cong 2 ma tran
+    3. Tru 2 ma tran
+    4. Nhan 2 ma tran
+    5. Nhan vo huong
+    6. Dinh thuc cua ma tran
+    7. Hang cua ma tran
+    8. Ma tran nghich dao bang phu dai so
+    9. Ma tran nghich dao bang Gauss Jordan
+    10. Tri rieng, vector rieng cua ma tran
+
+----------------MENU---------------
+
+Press ESC to exit !
+    0. Thoat
+-->> 1. Random ma tran
+    2. Cong 2 ma tran
+    3. Tru 2 ma tran
+    4. Nhan 2 ma tran
+    5. Nhan vo huong
+    6. Dinh thuc cua ma tran
+    7. Hang cua ma tran
+    8. Ma tran nghich dao bang phu dai so
+    9. Ma tran nghich dao bang Gauss Jordan
+    10. Tri rieng, vector rieng cua ma tran
+
+----------------MENU---------------
+
+Press ESC to exit !
+    0. Thoat
+    1. Random ma tran
+-->> 2. Cong 2 ma tran
+    3. Tru 2 ma tran
+    4. Nhan 2 ma tran
+    5. Nhan vo huong
+    6. Dinh thuc cua ma tran
+    7. Hang cua ma tran
+    8. Ma tran nghich dao bang phu dai so
+    9. Ma tran nghich dao bang Gauss Jordan
+    10. Tri rieng, vector rieng cua ma tran
+
+----------------MENU---------------
+
+Press ESC to exit !
+    0. Thoat
+    1. Random ma tran
+-->> 2. Cong 2 ma tran
+    3. Tru 2 ma tran
+    4. Nhan 2 ma tran
+    5. Nhan vo huong
+    6. Dinh thuc cua ma tran
+    7. Hang cua ma tran
+    8. Ma tran nghich dao bang phu dai so
+    9. Ma tran nghich dao bang Gauss Jordan
+    10. Tri rieng, vector rieng cua ma tran
+
+----------------MENU---------------
+
+Press ESC to exit !
+    0. Thoat
+-->> 1. Random ma tran
+    2. Cong 2 ma tran
+    3. Tru 2 ma tran
+    4. Nhan 2 ma tran
+    5. Nhan vo huong
+    6. Dinh thuc cua ma tran
+    7. Hang cua ma tran
+    8. Ma tran nghich dao bang phu dai so
+    9. Ma tran nghich dao bang Gauss Jordan
+    10. Tri rieng, vector rieng cua ma tran
+
+----------------MENU---------------
+
+Press ESC to exit !
+    0. Thoat
+-->> 1. Random ma tran
+    2. Cong 2 ma tran
+    3. Tru 2 ma tran
+    4. Nhan 2 ma tran
+    5. Nhan vo huong
+    6. Dinh thuc cua ma tran
+    7. Hang cua ma tran
+    8. Ma tran nghich dao bang phu dai so
+    9. Ma tran nghich dao bang Gauss Jordan
+    10. Tri rieng, vector rieng cua ma tran
+
+----------------MENU---------------
+
+Press ESC to exit !
+    0. Thoat
+    1. Random ma tran
+-->> 2. Cong 2 ma tran
+    3. Tru 2 ma tran
+    4. Nhan 2 ma tran
+    5. Nhan vo huong
+    6. Dinh thuc cua ma tran
+    7. Hang cua ma tran
+    8. Ma tran nghich dao bang phu dai so
+    9. Ma tran nghich dao bang Gauss Jordan
+    10. Tri rieng, vector rieng cua ma tran
+
+----------------MENU---------------
+
+Press ESC to exit !
+    0. Thoat
+    1. Random ma tran
+-->> 2. Cong 2 ma tran
+    3. Tru 2 ma tran
+    4. Nhan 2 ma tran
+    5. Nhan vo huong
+    6. Dinh thuc cua ma tran
+    7. Hang cua ma tran
+    8. Ma tran nghich dao bang phu dai so
+    9. Ma tran nghich dao bang Gauss Jordan
+    10. Tri rieng, vector rieng cua ma tran
+
+----------------MENU---------------
+
+Press ESC to exit !
+    0. Thoat
+    1. Random ma tran
+    2. Cong 2 ma tran
+-->> 3. Tru 2 ma tran
+    4. Nhan 2 ma tran
+    5. Nhan vo huong
+    6. Dinh thuc cua ma tran
+    7. Hang cua ma tran
+    8. Ma tran nghich dao bang phu dai so
+    9. Ma tran nghich dao bang Gauss Jordan
+    10. Tri rieng, vector rieng cua ma tran
+
+----------------MENU---------------
+
+Press ESC to exit !
+    0. Thoat
+    1. Random ma tran
+    2. Cong 2 ma tran
+-->> 3. Tru 2 ma tran
+    4. Nhan 2 ma tran
+    5. Nhan vo huong
+    6. Dinh thuc cua ma tran
+    7. Hang cua ma tran
+    8. Ma tran nghich dao bang phu dai so
+    9. Ma tran nghich dao bang Gauss Jordan
+    10. Tri rieng, vector rieng cua ma tran
+
+----------------MENU---------------
+
+Press ESC to exit !
+    0. Thoat
+    1. Random ma tran
+    2. Cong 2 ma tran
+    3. Tru 2 ma tran
+-->> 4. Nhan 2 ma tran
+    5. Nhan vo huong
+    6. Dinh thuc cua ma tran
+    7. Hang cua ma tran
+    8. Ma tran nghich dao bang phu dai so
+    9. Ma tran nghich dao bang Gauss Jordan
+    10. Tri rieng, vector rieng cua ma tran
+
+----------------MENU---------------
+
+Press ESC to exit !
+    0. Thoat
+    1. Random ma tran
+    2. Cong 2 ma tran
+    3. Tru 2 ma tran
+-->> 4. Nhan 2 ma tran
+    5. Nhan vo huong
+    6. Dinh thuc cua ma tran
+    7. Hang cua ma tran
+    8. Ma tran nghich dao bang phu dai so
+    9. Ma tran nghich dao bang Gauss Jordan
+    10. Tri rieng, vector rieng cua ma tran
+
+----------------MENU---------------
+
+Press ESC to exit !
+    0. Thoat
+    1. Random ma tran
+    2. Cong 2 ma tran
+    3. Tru 2 ma tran
+    4. Nhan 2 ma tran
+-->> 5. Nhan vo huong
+    6. Dinh thuc cua ma tran
+    7. Hang cua ma tran
+    8. Ma tran nghich dao bang phu dai so
+    9. Ma tran nghich dao bang Gauss Jordan
+    10. Tri rieng, vector rieng cua ma tran
+
+----------------MENU---------------
+
+Press ESC to exit !
+    0. Thoat
+    1. Random ma tran
+    2. Cong 2 ma tran
+    3. Tru 2 ma tran
+    4. Nhan 2 ma tran
+-->> 5. Nhan vo huong
+    6. Dinh thuc cua ma tran
+    7. Hang cua ma tran
+    8. Ma tran nghich dao bang phu dai so
+    9. Ma tran nghich dao bang Gauss Jordan
+    10. Tri rieng, vector rieng cua ma tran
+
+----------------MENU---------------
+
+Press ESC to exit !
+    0. Thoat
+    1. Random ma tran
+    2. Cong 2 ma tran
+    3. Tru 2 ma tran
+-->> 4. Nhan 2 ma tran
+    5. Nhan vo huong
+    6. Dinh thuc cua ma tran
+    7. Hang cua ma tran
+    8. Ma tran nghich dao bang phu dai so
+    9. Ma tran nghich dao bang Gauss Jordan
+    10. Tri rieng, vector rieng cua ma tran
+
+----------------MENU---------------
+
+Press ESC to exit !
+    0. Thoat
+    1. Random ma tran
+    2. Cong 2 ma tran
+    3. Tru 2 ma tran
+-->> 4. Nhan 2 ma tran
+    5. Nhan vo huong
+    6. Dinh thuc cua ma tran
+    7. Hang cua ma tran
+    8. Ma tran nghich dao bang phu dai so
+    9. Ma tran nghich dao bang Gauss Jordan
+    10. Tri rieng, vector rieng cua ma tran
+
+----------------MENU---------------
+
+Press ESC to exit !
+    0. Thoat
+    1. Random ma tran
+    2. Cong 2 ma tran
+-->> 3. Tru 2 ma tran
+    4. Nhan 2 ma tran
+    5. Nhan vo huong
+    6. Dinh thuc cua ma tran
+    7. Hang cua ma tran
+    8. Ma tran nghich dao bang phu dai so
+    9. Ma tran nghich dao bang Gauss Jordan
+    10. Tri rieng, vector rieng cua ma tran
+
+----------------MENU---------------
+
+Press ESC to exit !
+    0. Thoat
+    1. Random ma tran
+    2. Cong 2 ma tran
+-->> 3. Tru 2 ma tran
+    4. Nhan 2 ma tran
+    5. Nhan vo huong
+    6. Dinh thuc cua ma tran
+    7. Hang cua ma tran
+    8. Ma tran nghich dao bang phu dai so
+    9. Ma tran nghich dao bang Gauss Jordan
+    10. Tri rieng, vector rieng cua ma tran
+
+----------------MENU---------------
+
+Press ESC to exit !
+    0. Thoat
+    1. Random ma tran
+-->> 2. Cong 2 ma tran
+    3. Tru 2 ma tran
+    4. Nhan 2 ma tran
+    5. Nhan vo huong
+    6. Dinh thuc cua ma tran
+    7. Hang cua ma tran
+    8. Ma tran nghich dao bang phu dai so
+    9. Ma tran nghich dao bang Gauss Jordan
+    10. Tri rieng, vector rieng cua ma tran
+
+----------------MENU---------------
+
+Press ESC to exit !
+-->> 0. Thoat
+    1. Random ma tran
+    2. Cong 2 ma tran
+    3. Tru 2 ma tran
+    4. Nhan 2 ma tran
+    5. Nhan vo huong
+    6. Dinh thuc cua ma tran
+    7. Hang cua ma tran
+    8. Ma tran nghich dao bang phu dai so
+    9. Ma tran nghich dao bang Gauss Jordan
+    10. Tri rieng, vector rieng cua ma tran
+
+----------------MENU---------------
+
+Press ESC to exit !
+-->> 0. Thoat
+    1. Random ma tran
+    2. Cong 2 ma tran
+    3. Tru 2 ma tran
+    4. Nhan 2 ma tran
+    5. Nhan vo huong
+    6. Dinh thuc cua ma tran
+    7. Hang cua ma tran
+    8. Ma tran nghich dao bang phu dai so
+    9. Ma tran nghich dao bang Gauss Jordan
+    10. Tri rieng, vector rieng cua ma tran
+
+----------------MENU---------------
+
+Press ESC to exit !
+    0. Thoat
+-->> 1. Random ma tran
+    2. Cong 2 ma tran
+    3. Tru 2 ma tran
+    4. Nhan 2 ma tran
+    5. Nhan vo huong
+    6. Dinh thuc cua ma tran
+    7. Hang cua ma tran
+    8. Ma tran nghich dao bang phu dai so
+    9. Ma tran nghich dao bang Gauss Jordan
+    10. Tri rieng, vector rieng cua ma tran
+
+1. Random ma tran
+Ma tran vua random: 
+12 12
+   -4.620795    -14.535168     43.180428     14.862385     31.281346     41.770642     18.143731    -44.730887     24.091743    -13.477064     13.675841    -22.336391  
+   31.914373     33.391437    -21.464832     19.743119     37.948012     -7.905199    -46.981651     -0.966361     24.085627    -38.000000    -45.223242    -32.452599  
+  -29.639144     45.743119     -1.324159    -35.516820    -41.336391    -49.675841    -46.727829    -41.651376      8.174312     -5.565749    -11.483180     19.446483  
+   21.342508    -19.709480     14.547401     11.883792    -31.131498    -46.024465    -31.474006     48.278287     -8.923547     13.972477    -49.415902     -5.737003  
+   43.119266    -14.718654    -38.538226    -32.556575    -36.149847     26.862385     46.681957     17.633028     -3.333333    -16.397554     -1.440367     31.232416  
+   36.776758    -46.544343     22.171254    -49.522936     38.119266    -18.886850     13.443425     47.709480    -45.348624     46.214067    -42.250765     42.749235  
+   45.880734    -39.036697     -0.886850     10.100917     21.590214     44.532110    -17.287462    -39.807339    -40.039755    -15.483180     27.100917     39.250765  
+  -29.045872    -40.434251     24.822630     35.767584     36.027523     30.443425     28.685015     37.984709      2.275229    -30.269113     23.651376     28.412844  
+  -40.409786     46.810398     39.504587    -40.749235    -23.155963     28.088685      6.116208     -1.333333     26.951070     15.639144      5.834862    -13.440367  
+  -21.354740    -16.709480     24.253823     -5.626911    -16.174312     30.048930    -45.954128     25.513761     36.033639     13.688073    -44.813456     49.477064  
+   30.932722    -16.960245     22.333333      9.525994      6.281346    -28.321101    -35.021407     -5.009174    -11.709480    -29.712538    -46.204893     17.626911  
+   23.752294     43.272171     33.039755    -16.116208     25.226300      4.018349    -45.140673      4.000000      8.663609     17.284404     40.198777     26.467890  
+****************************************************************************************************
+
+----------------MENU---------------
+
+Press ESC to exit !
+-->> 0. Thoat
+    1. Random ma tran
+    2. Cong 2 ma tran
+    3. Tru 2 ma tran
+    4. Nhan 2 ma tran
+    5. Nhan vo huong
+    6. Dinh thuc cua ma tran
+    7. Hang cua ma tran
+    8. Ma tran nghich dao bang phu dai so
+    9. Ma tran nghich dao bang Gauss Jordan
+    10. Tri rieng, vector rieng cua ma tran
+
+----------------MENU---------------
+
+Press ESC to exit !
+-->> 0. Thoat
+    1. Random ma tran
+    2. Cong 2 ma tran
+    3. Tru 2 ma tran
+    4. Nhan 2 ma tran
+    5. Nhan vo huong
+    6. Dinh thuc cua ma tran
+    7. Hang cua ma tran
+    8. Ma tran nghich dao bang phu dai so
+    9. Ma tran nghich dao bang Gauss Jordan
+    10. Tri rieng, vector rieng cua ma tran
+
+----------------MENU---------------
+
+Press ESC to exit !
+    0. Thoat
+-->> 1. Random ma tran
+    2. Cong 2 ma tran
+    3. Tru 2 ma tran
+    4. Nhan 2 ma tran
+    5. Nhan vo huong
+    6. Dinh thuc cua ma tran
+    7. Hang cua ma tran
+    8. Ma tran nghich dao bang phu dai so
+    9. Ma tran nghich dao bang Gauss Jordan
+    10. Tri rieng, vector rieng cua ma tran
+
+----------------MENU---------------
+
+Press ESC to exit !
+    0. Thoat
+-->> 1. Random ma tran
+    2. Cong 2 ma tran
+    3. Tru 2 ma tran
+    4. Nhan 2 ma tran
+    5. Nhan vo huong
+    6. Dinh thuc cua ma tran
+    7. Hang cua ma tran
+    8. Ma tran nghich dao bang phu dai so
+    9. Ma tran nghich dao bang Gauss Jordan
+    10. Tri rieng, vector rieng cua ma tran
+
+----------------MENU---------------
+
+Press ESC to exit !
+    0. Thoat
+    1. Random ma tran
+-->> 2. Cong 2 ma tran
+    3. Tru 2 ma tran
+    4. Nhan 2 ma tran
+    5. Nhan vo huong
+    6. Dinh thuc cua ma tran
+    7. Hang cua ma tran
+    8. Ma tran nghich dao bang phu dai so
+    9. Ma tran nghich dao bang Gauss Jordan
+    10. Tri rieng, vector rieng cua ma tran
+
+----------------MENU---------------
+
+Press ESC to exit !
+    0. Thoat
+    1. Random ma tran
+-->> 2. Cong 2 ma tran
+    3. Tru 2 ma tran
+    4. Nhan 2 ma tran
+    5. Nhan vo huong
+    6. Dinh thuc cua ma tran
+    7. Hang cua ma tran
+    8. Ma tran nghich dao bang phu dai so
+    9. Ma tran nghich dao bang Gauss Jordan
+    10. Tri rieng, vector rieng cua ma tran
+
+----------------MENU---------------
+
+Press ESC to exit !
+    0. Thoat
+    1. Random ma tran
+    2. Cong 2 ma tran
+-->> 3. Tru 2 ma tran
+    4. Nhan 2 ma tran
+    5. Nhan vo huong
+    6. Dinh thuc cua ma tran
+    7. Hang cua ma tran
+    8. Ma tran nghich dao bang phu dai so
+    9. Ma tran nghich dao bang Gauss Jordan
+    10. Tri rieng, vector rieng cua ma tran
+
+----------------MENU---------------
+
+Press ESC to exit !
+    0. Thoat
+    1. Random ma tran
+    2. Cong 2 ma tran
+-->> 3. Tru 2 ma tran
+    4. Nhan 2 ma tran
+    5. Nhan vo huong
+    6. Dinh thuc cua ma tran
+    7. Hang cua ma tran
+    8. Ma tran nghich dao bang phu dai so
+    9. Ma tran nghich dao bang Gauss Jordan
+    10. Tri rieng, vector rieng cua ma tran
+
+----------------MENU---------------
+
+Press ESC to exit !
+    0. Thoat
+    1. Random ma tran
+    2. Cong 2 ma tran
+    3. Tru 2 ma tran
+-->> 4. Nhan 2 ma tran
+    5. Nhan vo huong
+    6. Dinh thuc cua ma tran
+    7. Hang cua ma tran
+    8. Ma tran nghich dao bang phu dai so
+    9. Ma tran nghich dao bang Gauss Jordan
+    10. Tri rieng, vector rieng cua ma tran
+
+----------------MENU---------------
+
+Press ESC to exit !
+    0. Thoat
+    1. Random ma tran
+    2. Cong 2 ma tran
+    3. Tru 2 ma tran
+-->> 4. Nhan 2 ma tran
+    5. Nhan vo huong
+    6. Dinh thuc cua ma tran
+    7. Hang cua ma tran
+    8. Ma tran nghich dao bang phu dai so
+    9. Ma tran nghich dao bang Gauss Jordan
+    10. Tri rieng, vector rieng cua ma tran
+
+----------------MENU---------------
+
+Press ESC to exit !
+    0. Thoat
+    1. Random ma tran
+    2. Cong 2 ma tran
+    3. Tru 2 ma tran
+    4. Nhan 2 ma tran
+-->> 5. Nhan vo huong
+    6. Dinh thuc cua ma tran
+    7. Hang cua ma tran
+    8. Ma tran nghich dao bang phu dai so
+    9. Ma tran nghich dao bang Gauss Jordan
+    10. Tri rieng, vector rieng cua ma tran
+
+----------------MENU---------------
+
+Press ESC to exit !
+    0. Thoat
+    1. Random ma tran
+    2. Cong 2 ma tran
+    3. Tru 2 ma tran
+    4. Nhan 2 ma tran
+-->> 5. Nhan vo huong
+    6. Dinh thuc cua ma tran
+    7. Hang cua ma tran
+    8. Ma tran nghich dao bang phu dai so
+    9. Ma tran nghich dao bang Gauss Jordan
+    10. Tri rieng, vector rieng cua ma tran
+
+----------------MENU---------------
+
+Press ESC to exit !
+    0. Thoat
+    1. Random ma tran
+    2. Cong 2 ma tran
+    3. Tru 2 ma tran
+    4. Nhan 2 ma tran
+    5. Nhan vo huong
+-->> 6. Dinh thuc cua ma tran
+    7. Hang cua ma tran
+    8. Ma tran nghich dao bang phu dai so
+    9. Ma tran nghich dao bang Gauss Jordan
+    10. Tri rieng, vector rieng cua ma tran
+
+----------------MENU---------------
+
+Press ESC to exit !
+    0. Thoat
+    1. Random ma tran
+    2. Cong 2 ma tran
+    3. Tru 2 ma tran
+    4. Nhan 2 ma tran
+    5. Nhan vo huong
+-->> 6. Dinh thuc cua ma tran
+    7. Hang cua ma tran
+    8. Ma tran nghich dao bang phu dai so
+    9. Ma tran nghich dao bang Gauss Jordan
+    10. Tri rieng, vector rieng cua ma tran
+
+----------------MENU---------------
+
+Press ESC to exit !
+    0. Thoat
+    1. Random ma tran
+    2. Cong 2 ma tran
+    3. Tru 2 ma tran
+    4. Nhan 2 ma tran
+    5. Nhan vo huong
+    6. Dinh thuc cua ma tran
+-->> 7. Hang cua ma tran
+    8. Ma tran nghich dao bang phu dai so
+    9. Ma tran nghich dao bang Gauss Jordan
+    10. Tri rieng, vector rieng cua ma tran
+
+----------------MENU---------------
+
+Press ESC to exit !
+    0. Thoat
+    1. Random ma tran
+    2. Cong 2 ma tran
+    3. Tru 2 ma tran
+    4. Nhan 2 ma tran
+    5. Nhan vo huong
+    6. Dinh thuc cua ma tran
+-->> 7. Hang cua ma tran
+    8. Ma tran nghich dao bang phu dai so
+    9. Ma tran nghich dao bang Gauss Jordan
+    10. Tri rieng, vector rieng cua ma tran
+
+----------------MENU---------------
+
+Press ESC to exit !
+    0. Thoat
+    1. Random ma tran
+    2. Cong 2 ma tran
+    3. Tru 2 ma tran
+    4. Nhan 2 ma tran
+    5. Nhan vo huong
+    6. Dinh thuc cua ma tran
+    7. Hang cua ma tran
+-->> 8. Ma tran nghich dao bang phu dai so
+    9. Ma tran nghich dao bang Gauss Jordan
+    10. Tri rieng, vector rieng cua ma tran
+
+----------------MENU---------------
+
+Press ESC to exit !
+    0. Thoat
+    1. Random ma tran
+    2. Cong 2 ma tran
+    3. Tru 2 ma tran
+    4. Nhan 2 ma tran
+    5. Nhan vo huong
+    6. Dinh thuc cua ma tran
+    7. Hang cua ma tran
+-->> 8. Ma tran nghich dao bang phu dai so
+    9. Ma tran nghich dao bang Gauss Jordan
+    10. Tri rieng, vector rieng cua ma tran
+
+----------------MENU---------------
+
+Press ESC to exit !
+    0. Thoat
+    1. Random ma tran
+    2. Cong 2 ma tran
+    3. Tru 2 ma tran
+    4. Nhan 2 ma tran
+    5. Nhan vo huong
+    6. Dinh thuc cua ma tran
+    7. Hang cua ma tran
+    8. Ma tran nghich dao bang phu dai so
+-->> 9. Ma tran nghich dao bang Gauss Jordan
+    10. Tri rieng, vector rieng cua ma tran
+
+----------------MENU---------------
+
+Press ESC to exit !
+    0. Thoat
+    1. Random ma tran
+    2. Cong 2 ma tran
+    3. Tru 2 ma tran
+    4. Nhan 2 ma tran
+    5. Nhan vo huong
+    6. Dinh thuc cua ma tran
+    7. Hang cua ma tran
+    8. Ma tran nghich dao bang phu dai so
+-->> 9. Ma tran nghich dao bang Gauss Jordan
+    10. Tri rieng, vector rieng cua ma tran
+
+----------------MENU---------------
+
+Press ESC to exit !
+    0. Thoat
+    1. Random ma tran
+    2. Cong 2 ma tran
+    3. Tru 2 ma tran
+    4. Nhan 2 ma tran
+    5. Nhan vo huong
+    6. Dinh thuc cua ma tran
+    7. Hang cua ma tran
+    8. Ma tran nghich dao bang phu dai so
+    9. Ma tran nghich dao bang Gauss Jordan
+-->> 10. Tri rieng, vector rieng cua ma tran
+
+10. Tinh tri rieng, vector rieng cua ma tran
+Input ma tran A: 
+-2147483648 -2147483648
+****************************************************************************************************
+
+----------------MENU---------------
+
+Press ESC to exit !
+-->> 0. Thoat
+    1. Random ma tran
+    2. Cong 2 ma tran
+    3. Tru 2 ma tran
+    4. Nhan 2 ma tran
+    5. Nhan vo huong
+    6. Dinh thuc cua ma tran
+    7. Hang cua ma tran
+    8. Ma tran nghich dao bang phu dai so
+    9. Ma tran nghich dao bang Gauss Jordan
+    10. Tri rieng, vector rieng cua ma tran
+
+----------------MENU---------------
+
+Press ESC to exit !
+-->> 0. Thoat
+    1. Random ma tran
+    2. Cong 2 ma tran
+    3. Tru 2 ma tran
+    4. Nhan 2 ma tran
+    5. Nhan vo huong
+    6. Dinh thuc cua ma tran
+    7. Hang cua ma tran
+    8. Ma tran nghich dao bang phu dai so
+    9. Ma tran nghich dao bang Gauss Jordan
+    10. Tri rieng, vector rieng cua ma tran
+
+----------------MENU---------------
+
+Press ESC to exit !
+-->> 0. Thoat
+    1. Random ma tran
+    2. Cong 2 ma tran
+    3. Tru 2 ma tran
+    4. Nhan 2 ma tran
+    5. Nhan vo huong
+    6. Dinh thuc cua ma tran
+    7. Hang cua ma tran
+    8. Ma tran nghich dao bang phu dai so
+    9. Ma tran nghich dao bang Gauss Jordan
+    10. Tri rieng, vector rieng cua ma tran
+
+----------------MENU---------------
+
+Press ESC to exit !
+    0. Thoat
+-->> 1. Random ma tran
+    2. Cong 2 ma tran
+    3. Tru 2 ma tran
+    4. Nhan 2 ma tran
+    5. Nhan vo huong
+    6. Dinh thuc cua ma tran
+    7. Hang cua ma tran
+    8. Ma tran nghich dao bang phu dai so
+    9. Ma tran nghich dao bang Gauss Jordan
+    10. Tri rieng, vector rieng cua ma tran
+
+1. Random ma tran
+Ma tran vua random: 
+14 14
+  -11.911315    -47.605505     13.761468    -33.446483     48.960245    -22.822630     23.559633    -29.318043    -19.941896     20.932722    -24.174312    -23.009174     30.645260    -17.446483  
+  -12.590214     44.042813    -49.850153    -13.250765     12.076453    -21.737003    -36.685015    -23.782875     24.296636     -2.400612     44.418960     -2.345566     25.519878     23.758410  
+   -1.217125    -30.296636      1.333333     23.700306      4.048930    -24.394495      7.975535    -36.969419     11.003058    -31.100917     15.574924    -11.840979    -38.874618     35.162080  
+  -12.758410      1.177370     22.345566     -2.103976     21.752294     45.966361     -5.633028     12.584098     36.880734    -31.987768     -8.954128     35.192661     23.675841    -33.134557  
+   48.094801      9.532110     48.006116      2.697248    -38.091743    -37.568807     27.672783    -23.477064     14.042813     47.446483    -35.461774     48.394495    -20.981651     26.660550  
+  -41.581040      6.954128    -23.990826     35.030581    -19.122324    -39.311927    -39.131498     12.467890     38.238532    -38.489297     16.088685     48.941896      0.559633     29.388379  
+   38.951070     29.923547     26.541284     -7.593272    -16.663609     25.703364    -40.831804      9.697248    -43.088685     12.382263     25.018349    -10.871560     26.510703    -32.770642  
+    9.513761    -30.299694     35.434251     28.455657     42.746177    -18.804281    -13.033639    -41.577982    -32.284404     48.042813     -4.816514      5.253823     24.764526    -47.740061  
+  -43.565749     -3.085627     24.477064     23.746177     46.972477    -34.776758     43.489297    -32.706422     -4.409786     35.721713     15.816514      0.847095     40.379205    -25.149847  
+  -48.492355     11.730887     15.446483     38.443425    -41.048930      3.235474    -22.299694      5.718654     -1.122324     43.510703     22.003058     46.975535     49.553517    -17.107034  
+  -10.709480      8.477064      9.926606    -42.529052     22.688073    -38.862385     20.198777     41.048930    -29.293578     -0.645260     25.611621    -36.917431     -4.562691     32.269113  
+  -35.678899    -39.587156    -16.067278    -41.223242      6.406728    -27.376147     20.605505    -33.544343     20.336391    -47.577982     19.764526     43.125382     -1.321101      3.972477  
+  -25.516820     44.418960     18.174312     14.125382     23.259939      7.385321    -37.174312     -5.311927    -13.134557     49.376147     -9.905199     -0.981651    -18.177370     43.195719  
+  -35.287462     29.412844    -40.782875     11.165138     42.700306      1.051988    -24.318043     26.128440     28.862385    -21.403670     47.296636    -39.189602     -9.067278     49.700306  
+****************************************************************************************************
+
+----------------MENU---------------
+
+Press ESC to exit !
+    0. Thoat
+-->> 1. Random ma tran
+    2. Cong 2 ma tran
+    3. Tru 2 ma tran
+    4. Nhan 2 ma tran
+    5. Nhan vo huong
+    6. Dinh thuc cua ma tran
+    7. Hang cua ma tran
+    8. Ma tran nghich dao bang phu dai so
+    9. Ma tran nghich dao bang Gauss Jordan
+    10. Tri rieng, vector rieng cua ma tran
+
+----------------MENU---------------
+
+Press ESC to exit !
+    0. Thoat
+-->> 1. Random ma tran
+    2. Cong 2 ma tran
+    3. Tru 2 ma tran
+    4. Nhan 2 ma tran
+    5. Nhan vo huong
+    6. Dinh thuc cua ma tran
+    7. Hang cua ma tran
+    8. Ma tran nghich dao bang phu dai so
+    9. Ma tran nghich dao bang Gauss Jordan
+    10. Tri rieng, vector rieng cua ma tran
+
+----------------MENU---------------
+
+Press ESC to exit !
+    0. Thoat
+    1. Random ma tran
+-->> 2. Cong 2 ma tran
+    3. Tru 2 ma tran
+    4. Nhan 2 ma tran
+    5. Nhan vo huong
+    6. Dinh thuc cua ma tran
+    7. Hang cua ma tran
+    8. Ma tran nghich dao bang phu dai so
+    9. Ma tran nghich dao bang Gauss Jordan
+    10. Tri rieng, vector rieng cua ma tran
+
+2. Cong 2 ma tran
+Input ma tran A: 
+-2147483648 -2147483648
+****************************************************************************************************
+
+Input ma tran B: 
+-2147483648 -2147483648
+****************************************************************************************************
+
+Ma tran tong: 
+****************************************************************************************************
+
+----------------MENU---------------
+
+Press ESC to exit !
+    0. Thoat
+    1. Random ma tran
+-->> 2. Cong 2 ma tran
+    3. Tru 2 ma tran
+    4. Nhan 2 ma tran
+    5. Nhan vo huong
+    6. Dinh thuc cua ma tran
+    7. Hang cua ma tran
+    8. Ma tran nghich dao bang phu dai so
+    9. Ma tran nghich dao bang Gauss Jordan
+    10. Tri rieng, vector rieng cua ma tran
+
+----------------MENU---------------
+
+Press ESC to exit !
+    0. Thoat
+    1. Random ma tran
+-->> 2. Cong 2 ma tran
+    3. Tru 2 ma tran
+    4. Nhan 2 ma tran
+    5. Nhan vo huong
+    6. Dinh thuc cua ma tran
+    7. Hang cua ma tran
+    8. Ma tran nghich dao bang phu dai so
+    9. Ma tran nghich dao bang Gauss Jordan
+    10. Tri rieng, vector rieng cua ma tran
+
+----------------MENU---------------
+
+Press ESC to exit !
+    0. Thoat
+-->> 1. Random ma tran
+    2. Cong 2 ma tran
+    3. Tru 2 ma tran
+    4. Nhan 2 ma tran
+    5. Nhan vo huong
+    6. Dinh thuc cua ma tran
+    7. Hang cua ma tran
+    8. Ma tran nghich dao bang phu dai so
+    9. Ma tran nghich dao bang Gauss Jordan
+    10. Tri rieng, vector rieng cua ma tran
+
+1. Random ma tran
+Ma tran vua random: 
+9 9
+   12.963303     24.819572    -11.324159    -29.798165     40.678899     29.259939    -19.464832    -23.076453    -20.140673  
+   13.694190    -22.018349    -42.048930     38.590214    -33.877676     34.094801    -46.672783     50.024465    -23.883792  
+  -39.363914     35.779817     19.336391      9.431193    -33.311927     10.660550    -15.724771     38.195719     30.006116  
+   11.669725     -5.862385     16.330275     33.467890      3.886850    -40.226300     41.467890     43.379205    -36.590214  
+  -21.036697     -7.467890    -43.773700     47.788991    -12.027523    -13.581040     -4.981651     21.354740     45.042813  
+   41.027523    -20.917431    -44.727829     -3.577982    -12.553517    -49.229358    -36.718654     31.146789     22.718654  
+  -17.327217     -9.128440    -26.785933     39.963303     45.345566     24.278287     19.975535     31.223242    -36.339450  
+   33.480122    -26.370031      0.437309     41.165138     15.617737    -24.703364    -21.639144    -24.376147    -45.938838  
+  -10.987768    -20.220183    -48.088685    -40.724771     42.954128     -6.217125     32.370031      5.938838    -21.532110  
+****************************************************************************************************
+
+----------------MENU---------------
+
+Press ESC to exit !
+    0. Thoat
+-->> 1. Random ma tran
+    2. Cong 2 ma tran
+    3. Tru 2 ma tran
+    4. Nhan 2 ma tran
+    5. Nhan vo huong
+    6. Dinh thuc cua ma tran
+    7. Hang cua ma tran
+    8. Ma tran nghich dao bang phu dai so
+    9. Ma tran nghich dao bang Gauss Jordan
+    10. Tri rieng, vector rieng cua ma tran
+
+----------------MENU---------------
+
+Press ESC to exit !
+    0. Thoat
+-->> 1. Random ma tran
+    2. Cong 2 ma tran
+    3. Tru 2 ma tran
+    4. Nhan 2 ma tran
+    5. Nhan vo huong
+    6. Dinh thuc cua ma tran
+    7. Hang cua ma tran
+    8. Ma tran nghich dao bang phu dai so
+    9. Ma tran nghich dao bang Gauss Jordan
+    10. Tri rieng, vector rieng cua ma tran
+
+----------------MENU---------------
+
+Press ESC to exit !
+    0. Thoat
+    1. Random ma tran
+-->> 2. Cong 2 ma tran
+    3. Tru 2 ma tran
+    4. Nhan 2 ma tran
+    5. Nhan vo huong
+    6. Dinh thuc cua ma tran
+    7. Hang cua ma tran
+    8. Ma tran nghich dao bang phu dai so
+    9. Ma tran nghich dao bang Gauss Jordan
+    10. Tri rieng, vector rieng cua ma tran
+
+2. Cong 2 ma tran
+Input ma tran A: 
+-2147483648 -2147483648
+****************************************************************************************************
+
+Input ma tran B: 
+-2147483648 -2147483648
+****************************************************************************************************
+
+Ma tran tong: 
+****************************************************************************************************
+
+----------------MENU---------------
+
+Press ESC to exit !
+    0. Thoat
+    1. Random ma tran
+-->> 2. Cong 2 ma tran
+    3. Tru 2 ma tran
+    4. Nhan 2 ma tran
+    5. Nhan vo huong
+    6. Dinh thuc cua ma tran
+    7. Hang cua ma tran
+    8. Ma tran nghich dao bang phu dai so
+    9. Ma tran nghich dao bang Gauss Jordan
+    10. Tri rieng, vector rieng cua ma tran
+
+----------------MENU---------------
+
+Press ESC to exit !
+    0. Thoat
+    1. Random ma tran
+-->> 2. Cong 2 ma tran
+    3. Tru 2 ma tran
+    4. Nhan 2 ma tran
+    5. Nhan vo huong
+    6. Dinh thuc cua ma tran
+    7. Hang cua ma tran
+    8. Ma tran nghich dao bang phu dai so
+    9. Ma tran nghich dao bang Gauss Jordan
+    10. Tri rieng, vector rieng cua ma tran
+
+----------------MENU---------------
+
+Press ESC to exit !
+    0. Thoat
+    1. Random ma tran
+    2. Cong 2 ma tran
+-->> 3. Tru 2 ma tran
+    4. Nhan 2 ma tran
+    5. Nhan vo huong
+    6. Dinh thuc cua ma tran
+    7. Hang cua ma tran
+    8. Ma tran nghich dao bang phu dai so
+    9. Ma tran nghich dao bang Gauss Jordan
+    10. Tri rieng, vector rieng cua ma tran
+
+3. Tru 2 ma tran
+Input ma tran A: 
+-2147483648 -2147483648
+****************************************************************************************************
+
+Input ma tran B: 
+-2147483648 -2147483648
+****************************************************************************************************
+
+Ma tran hieu: 
+****************************************************************************************************
+
+----------------MENU---------------
+
+Press ESC to exit !
+    0. Thoat
+    1. Random ma tran
+    2. Cong 2 ma tran
+-->> 3. Tru 2 ma tran
+    4. Nhan 2 ma tran
+    5. Nhan vo huong
+    6. Dinh thuc cua ma tran
+    7. Hang cua ma tran
+    8. Ma tran nghich dao bang phu dai so
+    9. Ma tran nghich dao bang Gauss Jordan
+    10. Tri rieng, vector rieng cua ma tran
+
+----------------MENU---------------
+
+Press ESC to exit !
+    0. Thoat
+    1. Random ma tran
+    2. Cong 2 ma tran
+    3. Tru 2 ma tran
+-->> 4. Nhan 2 ma tran
+    5. Nhan vo huong
+    6. Dinh thuc cua ma tran
+    7. Hang cua ma tran
+    8. Ma tran nghich dao bang phu dai so
+    9. Ma tran nghich dao bang Gauss Jordan
+    10. Tri rieng, vector rieng cua ma tran
+
+4. Nhan 2 ma tran
+Input ma tran A: 
+-2147483648 -2147483648
+****************************************************************************************************
+
+Input ma tran B: 
+-2147483648 -2147483648
+****************************************************************************************************
+
+Tich hai ma tran: 
+****************************************************************************************************
+
+----------------MENU---------------
+
+Press ESC to exit !
+    0. Thoat
+    1. Random ma tran
+    2. Cong 2 ma tran
+    3. Tru 2 ma tran
+-->> 4. Nhan 2 ma tran
+    5. Nhan vo huong
+    6. Dinh thuc cua ma tran
+    7. Hang cua ma tran
+    8. Ma tran nghich dao bang phu dai so
+    9. Ma tran nghich dao bang Gauss Jordan
+    10. Tri rieng, vector rieng cua ma tran
+
+----------------MENU---------------
+
+Press ESC to exit !
+    0. Thoat
+    1. Random ma tran
+    2. Cong 2 ma tran
+    3. Tru 2 ma tran
+    4. Nhan 2 ma tran
+-->> 5. Nhan vo huong
+    6. Dinh thuc cua ma tran
+    7. Hang cua ma tran
+    8. Ma tran nghich dao bang phu dai so
+    9. Ma tran nghich dao bang Gauss Jordan
+    10. Tri rieng, vector rieng cua ma tran
+
+5. Nhan vo huong ma tran voi 1 so thuc
+Input ma tran A: -2147483648 -2147483648
+****************************************************************************************************
+
+Nhap coeff = 1
+Ma tran ket qua: 
+****************************************************************************************************
+
+----------------MENU---------------
+
+Press ESC to exit !
+    0. Thoat
+    1. Random ma tran
+    2. Cong 2 ma tran
+    3. Tru 2 ma tran
+    4. Nhan 2 ma tran
+-->> 5. Nhan vo huong
+    6. Dinh thuc cua ma tran
+    7. Hang cua ma tran
+    8. Ma tran nghich dao bang phu dai so
+    9. Ma tran nghich dao bang Gauss Jordan
+    10. Tri rieng, vector rieng cua ma tran
+
+----------------MENU---------------
+
+Press ESC to exit !
+    0. Thoat
+    1. Random ma tran
+    2. Cong 2 ma tran
+    3. Tru 2 ma tran
+    4. Nhan 2 ma tran
+-->> 5. Nhan vo huong
+    6. Dinh thuc cua ma tran
+    7. Hang cua ma tran
+    8. Ma tran nghich dao bang phu dai so
+    9. Ma tran nghich dao bang Gauss Jordan
+    10. Tri rieng, vector rieng cua ma tran
+
+----------------MENU---------------
+
+Press ESC to exit !
+    0. Thoat
+    1. Random ma tran
+    2. Cong 2 ma tran
+    3. Tru 2 ma tran
+    4. Nhan 2 ma tran
+    5. Nhan vo huong
+-->> 6. Dinh thuc cua ma tran
+    7. Hang cua ma tran
+    8. Ma tran nghich dao bang phu dai so
+    9. Ma tran nghich dao bang Gauss Jordan
+    10. Tri rieng, vector rieng cua ma tran
+6. Tinh dinh thuc cua ma tran
+Input ma tran A: 
+-2147483648 -2147483648
+****************************************************************************************************
+
+Dinh thuc cua ma tran la: 0
+----------------MENU---------------
+
+Press ESC to exit !
+-->> 0. Thoat
+    1. Random ma tran
+    2. Cong 2 ma tran
+    3. Tru 2 ma tran
+    4. Nhan 2 ma tran
+    5. Nhan vo huong
+    6. Dinh thuc cua ma tran
+    7. Hang cua ma tran
+    8. Ma tran nghich dao bang phu dai so
+    9. Ma tran nghich dao bang Gauss Jordan
+    10. Tri rieng, vector rieng cua ma tran
+
+----------------MENU---------------
+
+Press ESC to exit !
+-->> 0. Thoat
+    1. Random ma tran
+    2. Cong 2 ma tran
+    3. Tru 2 ma tran
+    4. Nhan 2 ma tran
+    5. Nhan vo huong
+    6. Dinh thuc cua ma tran
+    7. Hang cua ma tran
+    8. Ma tran nghich dao bang phu dai so
+    9. Ma tran nghich dao bang Gauss Jordan
+    10. Tri rieng, vector rieng cua ma tran
+
+----------------MENU---------------
+
+Press ESC to exit !
+    0. Thoat
+    1. Random ma tran
+    2. Cong 2 ma tran
+    3. Tru 2 ma tran
+    4. Nhan 2 ma tran
+    5. Nhan vo huong
+    6. Dinh thuc cua ma tran
+    7. Hang cua ma tran
+    8. Ma tran nghich dao bang phu dai so
+    9. Ma tran nghich dao bang Gauss Jordan
+-->> 10. Tri rieng, vector rieng cua ma tran
+
+----------------MENU---------------
+
+Press ESC to exit !
+    0. Thoat
+    1. Random ma tran
+    2. Cong 2 ma tran
+    3. Tru 2 ma tran
+    4. Nhan 2 ma tran
+    5. Nhan vo huong
+    6. Dinh thuc cua ma tran
+    7. Hang cua ma tran
+    8. Ma tran nghich dao bang phu dai so
+    9. Ma tran nghich dao bang Gauss Jordan
+-->> 10. Tri rieng, vector rieng cua ma tran
+
+----------------MENU---------------
+
+Press ESC to exit !
+-->> 0. Thoat
+    1. Random ma tran
+    2. Cong 2 ma tran
+    3. Tru 2 ma tran
+    4. Nhan 2 ma tran
+    5. Nhan vo huong
+    6. Dinh thuc cua ma tran
+    7. Hang cua ma tran
+    8. Ma tran nghich dao bang phu dai so
+    9. Ma tran nghich dao bang Gauss Jordan
+    10. Tri rieng, vector rieng cua ma tran
+
+----------------MENU---------------
+
+Press ESC to exit !
+-->> 0. Thoat
+    1. Random ma tran
+    2. Cong 2 ma tran
+    3. Tru 2 ma tran
+    4. Nhan 2 ma tran
+    5. Nhan vo huong
+    6. Dinh thuc cua ma tran
+    7. Hang cua ma tran
+    8. Ma tran nghich dao bang phu dai so
+    9. Ma tran nghich dao bang Gauss Jordan
+    10. Tri rieng, vector rieng cua ma tran
+
+----------------MENU---------------
+
+Press ESC to exit !
+    0. Thoat
+-->> 1. Random ma tran
+    2. Cong 2 ma tran
+    3. Tru 2 ma tran
+    4. Nhan 2 ma tran
+    5. Nhan vo huong
+    6. Dinh thuc cua ma tran
+    7. Hang cua ma tran
+    8. Ma tran nghich dao bang phu dai so
+    9. Ma tran nghich dao bang Gauss Jordan
+    10. Tri rieng, vector rieng cua ma tran
+
+----------------MENU---------------
+
+Press ESC to exit !
+    0. Thoat
+-->> 1. Random ma tran
+    2. Cong 2 ma tran
+    3. Tru 2 ma tran
+    4. Nhan 2 ma tran
+    5. Nhan vo huong
+    6. Dinh thuc cua ma tran
+    7. Hang cua ma tran
+    8. Ma tran nghich dao bang phu dai so
+    9. Ma tran nghich dao bang Gauss Jordan
+    10. Tri rieng, vector rieng cua ma tran
+
+----------------MENU---------------
+
+Press ESC to exit !
+-->> 0. Thoat
+    1. Random ma tran
+    2. Cong 2 ma tran
+    3. Tru 2 ma tran
+    4. Nhan 2 ma tran
+    5. Nhan vo huong
+    6. Dinh thuc cua ma tran
+    7. Hang cua ma tran
+    8. Ma tran nghich dao bang phu dai so
+    9. Ma tran nghich dao bang Gauss Jordan
+    10. Tri rieng, vector rieng cua ma tran
+
+----------------MENU---------------
+
+Press ESC to exit !
+-->> 0. Thoat
+    1. Random ma tran
+    2. Cong 2 ma tran
+    3. Tru 2 ma tran
+    4. Nhan 2 ma tran
+    5. Nhan vo huong
+    6. Dinh thuc cua ma tran
+    7. Hang cua ma tran
+    8. Ma tran nghich dao bang phu dai so
+    9. Ma tran nghich dao bang Gauss Jordan
+    10. Tri rieng, vector rieng cua ma tran
+
+----------------MENU---------------
+
+Press ESC to exit !
+    0. Thoat
+    1. Random ma tran
+    2. Cong 2 ma tran
+    3. Tru 2 ma tran
+    4. Nhan 2 ma tran
+    5. Nhan vo huong
+    6. Dinh thuc cua ma tran
+    7. Hang cua ma tran
+    8. Ma tran nghich dao bang phu dai so
+    9. Ma tran nghich dao bang Gauss Jordan
+-->> 10. Tri rieng, vector rieng cua ma tran
+
+----------------MENU---------------
+
+Press ESC to exit !
+    0. Thoat
+    1. Random ma tran
+    2. Cong 2 ma tran
+    3. Tru 2 ma tran
+    4. Nhan 2 ma tran
+    5. Nhan vo huong
+    6. Dinh thuc cua ma tran
+    7. Hang cua ma tran
+    8. Ma tran nghich dao bang phu dai so
+    9. Ma tran nghich dao bang Gauss Jordan
+-->> 10. Tri rieng, vector rieng cua ma tran
+
+----------------MENU---------------
+
+Press ESC to exit !
+    0. Thoat
+    1. Random ma tran
+    2. Cong 2 ma tran
+    3. Tru 2 ma tran
+    4. Nhan 2 ma tran
+    5. Nhan vo huong
+    6. Dinh thuc cua ma tran
+    7. Hang cua ma tran
+    8. Ma tran nghich dao bang phu dai so
+-->> 9. Ma tran nghich dao bang Gauss Jordan
+    10. Tri rieng, vector rieng cua ma tran
+
+----------------MENU---------------
+
+Press ESC to exit !
+    0. Thoat
+    1. Random ma tran
+    2. Cong 2 ma tran
+    3. Tru 2 ma tran
+    4. Nhan 2 ma tran
+    5. Nhan vo huong
+    6. Dinh thuc cua ma tran
+    7. Hang cua ma tran
+    8. Ma tran nghich dao bang phu dai so
+-->> 9. Ma tran nghich dao bang Gauss Jordan
+    10. Tri rieng, vector rieng cua ma tran
+
+----------------MENU---------------
+
+Press ESC to exit !
+    0. Thoat
+    1. Random ma tran
+    2. Cong 2 ma tran
+    3. Tru 2 ma tran
+    4. Nhan 2 ma tran
+    5. Nhan vo huong
+    6. Dinh thuc cua ma tran
+    7. Hang cua ma tran
+-->> 8. Ma tran nghich dao bang phu dai so
+    9. Ma tran nghich dao bang Gauss Jordan
+    10. Tri rieng, vector rieng cua ma tran
+
+----------------MENU---------------
+
+Press ESC to exit !
+    0. Thoat
+    1. Random ma tran
+    2. Cong 2 ma tran
+    3. Tru 2 ma tran
+    4. Nhan 2 ma tran
+    5. Nhan vo huong
+    6. Dinh thuc cua ma tran
+    7. Hang cua ma tran
+-->> 8. Ma tran nghich dao bang phu dai so
+    9. Ma tran nghich dao bang Gauss Jordan
+    10. Tri rieng, vector rieng cua ma tran
+
+----------------MENU---------------
+
+Press ESC to exit !
+    0. Thoat
+    1. Random ma tran
+    2. Cong 2 ma tran
+    3. Tru 2 ma tran
+    4. Nhan 2 ma tran
+    5. Nhan vo huong
+    6. Dinh thuc cua ma tran
+-->> 7. Hang cua ma tran
+    8. Ma tran nghich dao bang phu dai so
+    9. Ma tran nghich dao bang Gauss Jordan
+    10. Tri rieng, vector rieng cua ma tran
+
+----------------MENU---------------
+
+Press ESC to exit !
+    0. Thoat
+    1. Random ma tran
+    2. Cong 2 ma tran
+    3. Tru 2 ma tran
+    4. Nhan 2 ma tran
+    5. Nhan vo huong
+    6. Dinh thuc cua ma tran
+-->> 7. Hang cua ma tran
+    8. Ma tran nghich dao bang phu dai so
+    9. Ma tran nghich dao bang Gauss Jordan
+    10. Tri rieng, vector rieng cua ma tran
+
+----------------MENU---------------
+
+Press ESC to exit !
+    0. Thoat
+    1. Random ma tran
+    2. Cong 2 ma tran
+    3. Tru 2 ma tran
+    4. Nhan 2 ma tran
+    5. Nhan vo huong
+-->> 6. Dinh thuc cua ma tran
+    7. Hang cua ma tran
+    8. Ma tran nghich dao bang phu dai so
+    9. Ma tran nghich dao bang Gauss Jordan
+    10. Tri rieng, vector rieng cua ma tran
+
+----------------MENU---------------
+
+Press ESC to exit !
+    0. Thoat
+    1. Random ma tran
+    2. Cong 2 ma tran
+    3. Tru 2 ma tran
+    4. Nhan 2 ma tran
+    5. Nhan vo huong
+-->> 6. Dinh thuc cua ma tran
+    7. Hang cua ma tran
+    8. Ma tran nghich dao bang phu dai so
+    9. Ma tran nghich dao bang Gauss Jordan
+    10. Tri rieng, vector rieng cua ma tran
+
+----------------MENU---------------
+
+Press ESC to exit !
+    0. Thoat
+    1. Random ma tran
+    2. Cong 2 ma tran
+    3. Tru 2 ma tran
+    4. Nhan 2 ma tran
+-->> 5. Nhan vo huong
+    6. Dinh thuc cua ma tran
+    7. Hang cua ma tran
+    8. Ma tran nghich dao bang phu dai so
+    9. Ma tran nghich dao bang Gauss Jordan
+    10. Tri rieng, vector rieng cua ma tran
+
+----------------MENU---------------
+
+Press ESC to exit !
+    0. Thoat
+    1. Random ma tran
+    2. Cong 2 ma tran
+    3. Tru 2 ma tran
+    4. Nhan 2 ma tran
+-->> 5. Nhan vo huong
+    6. Dinh thuc cua ma tran
+    7. Hang cua ma tran
+    8. Ma tran nghich dao bang phu dai so
+    9. Ma tran nghich dao bang Gauss Jordan
+    10. Tri rieng, vector rieng cua ma tran
+
+----------------MENU---------------
+
+Press ESC to exit !
+    0. Thoat
+    1. Random ma tran
+    2. Cong 2 ma tran
+    3. Tru 2 ma tran
+-->> 4. Nhan 2 ma tran
+    5. Nhan vo huong
+    6. Dinh thuc cua ma tran
+    7. Hang cua ma tran
+    8. Ma tran nghich dao bang phu dai so
+    9. Ma tran nghich dao bang Gauss Jordan
+    10. Tri rieng, vector rieng cua ma tran
+
+----------------MENU---------------
+
+Press ESC to exit !
+    0. Thoat
+    1. Random ma tran
+    2. Cong 2 ma tran
+    3. Tru 2 ma tran
+-->> 4. Nhan 2 ma tran
+    5. Nhan vo huong
+    6. Dinh thuc cua ma tran
+    7. Hang cua ma tran
+    8. Ma tran nghich dao bang phu dai so
+    9. Ma tran nghich dao bang Gauss Jordan
+    10. Tri rieng, vector rieng cua ma tran
+
+----------------MENU---------------
+
+Press ESC to exit !
+    0. Thoat
+    1. Random ma tran
+    2. Cong 2 ma tran
+-->> 3. Tru 2 ma tran
+    4. Nhan 2 ma tran
+    5. Nhan vo huong
+    6. Dinh thuc cua ma tran
+    7. Hang cua ma tran
+    8. Ma tran nghich dao bang phu dai so
+    9. Ma tran nghich dao bang Gauss Jordan
+    10. Tri rieng, vector rieng cua ma tran
+
+----------------MENU---------------
+
+Press ESC to exit !
+    0. Thoat
+    1. Random ma tran
+    2. Cong 2 ma tran
+-->> 3. Tru 2 ma tran
+    4. Nhan 2 ma tran
+    5. Nhan vo huong
+    6. Dinh thuc cua ma tran
+    7. Hang cua ma tran
+    8. Ma tran nghich dao bang phu dai so
+    9. Ma tran nghich dao bang Gauss Jordan
+    10. Tri rieng, vector rieng cua ma tran
+
+----------------MENU---------------
+
+Press ESC to exit !
+    0. Thoat
+    1. Random ma tran
+-->> 2. Cong 2 ma tran
+    3. Tru 2 ma tran
+    4. Nhan 2 ma tran
+    5. Nhan vo huong
+    6. Dinh thuc cua ma tran
+    7. Hang cua ma tran
+    8. Ma tran nghich dao bang phu dai so
+    9. Ma tran nghich dao bang Gauss Jordan
+    10. Tri rieng, vector rieng cua ma tran
+
+----------------MENU---------------
+
+Press ESC to exit !
+    0. Thoat
+    1. Random ma tran
+-->> 2. Cong 2 ma tran
+    3. Tru 2 ma tran
+    4. Nhan 2 ma tran
+    5. Nhan vo huong
+    6. Dinh thuc cua ma tran
+    7. Hang cua ma tran
+    8. Ma tran nghich dao bang phu dai so
+    9. Ma tran nghich dao bang Gauss Jordan
+    10. Tri rieng, vector rieng cua ma tran
+
+----------------MENU---------------
+
+Press ESC to exit !
+    0. Thoat
+-->> 1. Random ma tran
+    2. Cong 2 ma tran
+    3. Tru 2 ma tran
+    4. Nhan 2 ma tran
+    5. Nhan vo huong
+    6. Dinh thuc cua ma tran
+    7. Hang cua ma tran
+    8. Ma tran nghich dao bang phu dai so
+    9. Ma tran nghich dao bang Gauss Jordan
+    10. Tri rieng, vector rieng cua ma tran
+
+----------------MENU---------------
+
+Press ESC to exit !
+    0. Thoat
+-->> 1. Random ma tran
+    2. Cong 2 ma tran
+    3. Tru 2 ma tran
+    4. Nhan 2 ma tran
+    5. Nhan vo huong
+    6. Dinh thuc cua ma tran
+    7. Hang cua ma tran
+    8. Ma tran nghich dao bang phu dai so
+    9. Ma tran nghich dao bang Gauss Jordan
+    10. Tri rieng, vector rieng cua ma tran
+
+----------------MENU---------------
+
+Press ESC to exit !
+-->> 0. Thoat
+    1. Random ma tran
+    2. Cong 2 ma tran
+    3. Tru 2 ma tran
+    4. Nhan 2 ma tran
+    5. Nhan vo huong
+    6. Dinh thuc cua ma tran
+    7. Hang cua ma tran
+    8. Ma tran nghich dao bang phu dai so
+    9. Ma tran nghich dao bang Gauss Jordan
+    10. Tri rieng, vector rieng cua ma tran
+
+----------------MENU---------------
+
+Press ESC to exit !
+-->> 0. Thoat
+    1. Random ma tran
+    2. Cong 2 ma tran
+    3. Tru 2 ma tran
+    4. Nhan 2 ma tran
+    5. Nhan vo huong
+    6. Dinh thuc cua ma tran
+    7. Hang cua ma tran
+    8. Ma tran nghich dao bang phu dai so
+    9. Ma tran nghich dao bang Gauss Jordan
+    10. Tri rieng, vector rieng cua ma tran
+
+----------------MENU---------------
+
+Press ESC to exit !
+    0. Thoat
+    1. Random ma tran
+    2. Cong 2 ma tran
+    3. Tru 2 ma tran
+    4. Nhan 2 ma tran
+    5. Nhan vo huong
+    6. Dinh thuc cua ma tran
+    7. Hang cua ma tran
+    8. Ma tran nghich dao bang phu dai so
+    9. Ma tran nghich dao bang Gauss Jordan
+-->> 10. Tri rieng, vector rieng cua ma tran
+
+----------------MENU---------------
+
+Press ESC to exit !
+    0. Thoat
+    1. Random ma tran
+    2. Cong 2 ma tran
+    3. Tru 2 ma tran
+    4. Nhan 2 ma tran
+    5. Nhan vo huong
+    6. Dinh thuc cua ma tran
+    7. Hang cua ma tran
+    8. Ma tran nghich dao bang phu dai so
+    9. Ma tran nghich dao bang Gauss Jordan
+-->> 10. Tri rieng, vector rieng cua ma tran
+
+----------------MENU---------------
+
+Press ESC to exit !
+    0. Thoat
+    1. Random ma tran
+    2. Cong 2 ma tran
+    3. Tru 2 ma tran
+    4. Nhan 2 ma tran
+    5. Nhan vo huong
+    6. Dinh thuc cua ma tran
+    7. Hang cua ma tran
+    8. Ma tran nghich dao bang phu dai so
+-->> 9. Ma tran nghich dao bang Gauss Jordan
+    10. Tri rieng, vector rieng cua ma tran
+
+----------------MENU---------------
+
+Press ESC to exit !
+    0. Thoat
+    1. Random ma tran
+    2. Cong 2 ma tran
+    3. Tru 2 ma tran
+    4. Nhan 2 ma tran
+    5. Nhan vo huong
+    6. Dinh thuc cua ma tran
+    7. Hang cua ma tran
+    8. Ma tran nghich dao bang phu dai so
+-->> 9. Ma tran nghich dao bang Gauss Jordan
+    10. Tri rieng, vector rieng cua ma tran
+
+----------------MENU---------------
+
+Press ESC to exit !
+    0. Thoat
+    1. Random ma tran
+    2. Cong 2 ma tran
+    3. Tru 2 ma tran
+    4. Nhan 2 ma tran
+    5. Nhan vo huong
+    6. Dinh thuc cua ma tran
+    7. Hang cua ma tran
+-->> 8. Ma tran nghich dao bang phu dai so
+    9. Ma tran nghich dao bang Gauss Jordan
+    10. Tri rieng, vector rieng cua ma tran
+
+----------------MENU---------------
+
+Press ESC to exit !
+    0. Thoat
+    1. Random ma tran
+    2. Cong 2 ma tran
+    3. Tru 2 ma tran
+    4. Nhan 2 ma tran
+    5. Nhan vo huong
+    6. Dinh thuc cua ma tran
+    7. Hang cua ma tran
+-->> 8. Ma tran nghich dao bang phu dai so
+    9. Ma tran nghich dao bang Gauss Jordan
+    10. Tri rieng, vector rieng cua ma tran
+
+----------------MENU---------------
+
+Press ESC to exit !
+    0. Thoat
+    1. Random ma tran
+    2. Cong 2 ma tran
+    3. Tru 2 ma tran
+    4. Nhan 2 ma tran
+    5. Nhan vo huong
+    6. Dinh thuc cua ma tran
+-->> 7. Hang cua ma tran
+    8. Ma tran nghich dao bang phu dai so
+    9. Ma tran nghich dao bang Gauss Jordan
+    10. Tri rieng, vector rieng cua ma tran
+
+----------------MENU---------------
+
+Press ESC to exit !
+    0. Thoat
+    1. Random ma tran
+    2. Cong 2 ma tran
+    3. Tru 2 ma tran
+    4. Nhan 2 ma tran
+    5. Nhan vo huong
+    6. Dinh thuc cua ma tran
+-->> 7. Hang cua ma tran
+    8. Ma tran nghich dao bang phu dai so
+    9. Ma tran nghich dao bang Gauss Jordan
+    10. Tri rieng, vector rieng cua ma tran
+
+----------------MENU---------------
+
+Press ESC to exit !
+    0. Thoat
+    1. Random ma tran
+    2. Cong 2 ma tran
+    3. Tru 2 ma tran
+    4. Nhan 2 ma tran
+    5. Nhan vo huong
+-->> 6. Dinh thuc cua ma tran
+    7. Hang cua ma tran
+    8. Ma tran nghich dao bang phu dai so
+    9. Ma tran nghich dao bang Gauss Jordan
+    10. Tri rieng, vector rieng cua ma tran
+
+----------------MENU---------------
+
+Press ESC to exit !
+    0. Thoat
+    1. Random ma tran
+    2. Cong 2 ma tran
+    3. Tru 2 ma tran
+    4. Nhan 2 ma tran
+    5. Nhan vo huong
+-->> 6. Dinh thuc cua ma tran
+    7. Hang cua ma tran
+    8. Ma tran nghich dao bang phu dai so
+    9. Ma tran nghich dao bang Gauss Jordan
+    10. Tri rieng, vector rieng cua ma tran
+
+----------------MENU---------------
+
+Press ESC to exit !
+    0. Thoat
+    1. Random ma tran
+    2. Cong 2 ma tran
+    3. Tru 2 ma tran
+    4. Nhan 2 ma tran
+-->> 5. Nhan vo huong
+    6. Dinh thuc cua ma tran
+    7. Hang cua ma tran
+    8. Ma tran nghich dao bang phu dai so
+    9. Ma tran nghich dao bang Gauss Jordan
+    10. Tri rieng, vector rieng cua ma tran
+
+----------------MENU---------------
+
+Press ESC to exit !
+    0. Thoat
+    1. Random ma tran
+    2. Cong 2 ma tran
+    3. Tru 2 ma tran
+    4. Nhan 2 ma tran
+-->> 5. Nhan vo huong
+    6. Dinh thuc cua ma tran
+    7. Hang cua ma tran
+    8. Ma tran nghich dao bang phu dai so
+    9. Ma tran nghich dao bang Gauss Jordan
+    10. Tri rieng, vector rieng cua ma tran
+
+----------------MENU---------------
+
+Press ESC to exit !
+    0. Thoat
+    1. Random ma tran
+    2. Cong 2 ma tran
+    3. Tru 2 ma tran
+-->> 4. Nhan 2 ma tran
+    5. Nhan vo huong
+    6. Dinh thuc cua ma tran
+    7. Hang cua ma tran
+    8. Ma tran nghich dao bang phu dai so
+    9. Ma tran nghich dao bang Gauss Jordan
+    10. Tri rieng, vector rieng cua ma tran
+
+----------------MENU---------------
+
+Press ESC to exit !
+    0. Thoat
+    1. Random ma tran
+    2. Cong 2 ma tran
+    3. Tru 2 ma tran
+-->> 4. Nhan 2 ma tran
+    5. Nhan vo huong
+    6. Dinh thuc cua ma tran
+    7. Hang cua ma tran
+    8. Ma tran nghich dao bang phu dai so
+    9. Ma tran nghich dao bang Gauss Jordan
+    10. Tri rieng, vector rieng cua ma tran
+
+----------------MENU---------------
+
+Press ESC to exit !
+    0. Thoat
+    1. Random ma tran
+    2. Cong 2 ma tran
+    3. Tru 2 ma tran
+    4. Nhan 2 ma tran
+-->> 5. Nhan vo huong
+    6. Dinh thuc cua ma tran
+    7. Hang cua ma tran
+    8. Ma tran nghich dao bang phu dai so
+    9. Ma tran nghich dao bang Gauss Jordan
+    10. Tri rieng, vector rieng cua ma tran
+
+----------------MENU---------------
+
+Press ESC to exit !
+-->> 0. Thoat
+    1. Random ma tran
+    2. Cong 2 ma tran
+    3. Tru 2 ma tran
+    4. Nhan 2 ma tran
+    5. Nhan vo huong
+    6. Dinh thuc cua ma tran
+    7. Hang cua ma tran
+    8. Ma tran nghich dao bang phu dai so
+    9. Ma tran nghich dao bang Gauss Jordan
+    10. Tri rieng, vector rieng cua ma tran
+
+----------------MENU---------------
+
+Press ESC to exit !
+-->> 0. Thoat
+    1. Random ma tran
+    2. Cong 2 ma tran
+    3. Tru 2 ma tran
+    4. Nhan 2 ma tran
+    5. Nhan vo huong
+    6. Dinh thuc cua ma tran
+    7. Hang cua ma tran
+    8. Ma tran nghich dao bang phu dai so
+    9. Ma tran nghich dao bang Gauss Jordan
+    10. Tri rieng, vector rieng cua ma tran
+
+----------------MENU---------------
+
+Press ESC to exit !
+-->> 0. Thoat
+    1. Random ma tran
+    2. Cong 2 ma tran
+    3. Tru 2 ma tran
+    4. Nhan 2 ma tran
+    5. Nhan vo huong
+    6. Dinh thuc cua ma tran
+    7. Hang cua ma tran
+    8. Ma tran nghich dao bang phu dai so
+    9. Ma tran nghich dao bang Gauss Jordan
+    10. Tri rieng, vector rieng cua ma tran
+
+----------------MENU---------------
+
+Press ESC to exit !
+    0. Thoat
+-->> 1. Random ma tran
+    2. Cong 2 ma tran
+    3. Tru 2 ma tran
+    4. Nhan 2 ma tran
+    5. Nhan vo huong
+    6. Dinh thuc cua ma tran
+    7. Hang cua ma tran
+    8. Ma tran nghich dao bang phu dai so
+    9. Ma tran nghich dao bang Gauss Jordan
+    10. Tri rieng, vector rieng cua ma tran
+
+----------------MENU---------------
+
+Press ESC to exit !
+    0. Thoat
+-->> 1. Random ma tran
+    2. Cong 2 ma tran
+    3. Tru 2 ma tran
+    4. Nhan 2 ma tran
+    5. Nhan vo huong
+    6. Dinh thuc cua ma tran
+    7. Hang cua ma tran
+    8. Ma tran nghich dao bang phu dai so
+    9. Ma tran nghich dao bang Gauss Jordan
+    10. Tri rieng, vector rieng cua ma tran
+
+----------------MENU---------------
+
+Press ESC to exit !
+    0. Thoat
+    1. Random ma tran
+-->> 2. Cong 2 ma tran
+    3. Tru 2 ma tran
+    4. Nhan 2 ma tran
+    5. Nhan vo huong
+    6. Dinh thuc cua ma tran
+    7. Hang cua ma tran
+    8. Ma tran nghich dao bang phu dai so
+    9. Ma tran nghich dao bang Gauss Jordan
+    10. Tri rieng, vector rieng cua ma tran
+
+2. Cong 2 ma tran
+Input ma tran A: 
+3 3
+    1.000000      2.000000      3.000000  
+    1.000000      2.000000      3.000000  
+    1.000000      2.000000      3.000000  
+****************************************************************************************************
+
+Input ma tran B: 
+3 3
+    1.000000      2.000000      3.000000  
+    1.000000      2.000000      3.000000  
+    1.000000      2.000000      3.000000  
+****************************************************************************************************
+
+Ma tran tong: 
+    2.000000      4.000000      6.000000  
+    2.000000      4.000000      6.000000  
+    2.000000      4.000000      6.000000  
+****************************************************************************************************
+
+----------------MENU---------------
+
+Press ESC to exit !
+    0. Thoat
+    1. Random ma tran
+-->> 2. Cong 2 ma tran
+    3. Tru 2 ma tran
+    4. Nhan 2 ma tran
+    5. Nhan vo huong
+    6. Dinh thuc cua ma tran
+    7. Hang cua ma tran
+    8. Ma tran nghich dao bang phu dai so
+    9. Ma tran nghich dao bang Gauss Jordan
+    10. Tri rieng, vector rieng cua ma tran
+
+----------------MENU---------------
+
+Press ESC to exit !
+    0. Thoat
+    1. Random ma tran
+-->> 2. Cong 2 ma tran
+    3. Tru 2 ma tran
+    4. Nhan 2 ma tran
+    5. Nhan vo huong
+    6. Dinh thuc cua ma tran
+    7. Hang cua ma tran
+    8. Ma tran nghich dao bang phu dai so
+    9. Ma tran nghich dao bang Gauss Jordan
+    10. Tri rieng, vector rieng cua ma tran
+
+----------------MENU---------------
+
+Press ESC to exit !
+    0. Thoat
+    1. Random ma tran
+    2. Cong 2 ma tran
+-->> 3. Tru 2 ma tran
+    4. Nhan 2 ma tran
+    5. Nhan vo huong
+    6. Dinh thuc cua ma tran
+    7. Hang cua ma tran
+    8. Ma tran nghich dao bang phu dai so
+    9. Ma tran nghich dao bang Gauss Jordan
+    10. Tri rieng, vector rieng cua ma tran
+
+3. Tru 2 ma tran
+Input ma tran A: 
+3 3
+    1.000000      2.000000      3.000000  
+    1.000000      2.000000      3.000000  
+    1.000000      2.000000      3.000000  
+****************************************************************************************************
+
+Input ma tran B: 
+3 3
+    1.000000      2.000000      3.000000  
+    1.000000      2.000000      3.000000  
+    1.000000      2.000000      3.000000  
+****************************************************************************************************
+
+Ma tran hieu: 
+    0.000000      0.000000      0.000000  
+    0.000000      0.000000      0.000000  
+    0.000000      0.000000      0.000000  
+****************************************************************************************************
+
+----------------MENU---------------
+
+Press ESC to exit !
+    0. Thoat
+    1. Random ma tran
+    2. Cong 2 ma tran
+-->> 3. Tru 2 ma tran
+    4. Nhan 2 ma tran
+    5. Nhan vo huong
+    6. Dinh thuc cua ma tran
+    7. Hang cua ma tran
+    8. Ma tran nghich dao bang phu dai so
+    9. Ma tran nghich dao bang Gauss Jordan
+    10. Tri rieng, vector rieng cua ma tran
+
+----------------MENU---------------
+
+Press ESC to exit !
+    0. Thoat
+    1. Random ma tran
+    2. Cong 2 ma tran
+-->> 3. Tru 2 ma tran
+    4. Nhan 2 ma tran
+    5. Nhan vo huong
+    6. Dinh thuc cua ma tran
+    7. Hang cua ma tran
+    8. Ma tran nghich dao bang phu dai so
+    9. Ma tran nghich dao bang Gauss Jordan
+    10. Tri rieng, vector rieng cua ma tran
+
+----------------MENU---------------
+
+Press ESC to exit !
+    0. Thoat
+    1. Random ma tran
+    2. Cong 2 ma tran
+    3. Tru 2 ma tran
+-->> 4. Nhan 2 ma tran
+    5. Nhan vo huong
+    6. Dinh thuc cua ma tran
+    7. Hang cua ma tran
+    8. Ma tran nghich dao bang phu dai so
+    9. Ma tran nghich dao bang Gauss Jordan
+    10. Tri rieng, vector rieng cua ma tran
+
+4. Nhan 2 ma tran
+Input ma tran A: 
+3 3
+    1.000000      2.000000      3.000000  
+    1.000000      2.000000      3.000000  
+    1.000000      2.000000      3.000000  
+****************************************************************************************************
+
+Input ma tran B: 
+3 3
+    1.000000      2.000000      3.000000  
+    1.000000      2.000000      3.000000  
+    1.000000      2.000000      3.000000  
+****************************************************************************************************
+
+Tich hai ma tran: 
+    1.000000      2.000000      3.000000  
+    1.000000      2.000000      3.000000  
+    1.000000      2.000000      3.000000  
+****************************************************************************************************
+
+----------------MENU---------------
+
+Press ESC to exit !
+-->> 0. Thoat
+    1. Random ma tran
+    2. Cong 2 ma tran
+    3. Tru 2 ma tran
+    4. Nhan 2 ma tran
+    5. Nhan vo huong
+    6. Dinh thuc cua ma tran
+    7. Hang cua ma tran
+    8. Ma tran nghich dao bang phu dai so
+    9. Ma tran nghich dao bang Gauss Jordan
+    10. Tri rieng, vector rieng cua ma tran
+
+----------------MENU---------------
+
+Press ESC to exit !
+-->> 0. Thoat
+    1. Random ma tran
+    2. Cong 2 ma tran
+    3. Tru 2 ma tran
+    4. Nhan 2 ma tran
+    5. Nhan vo huong
+    6. Dinh thuc cua ma tran
+    7. Hang cua ma tran
+    8. Ma tran nghich dao bang phu dai so
+    9. Ma tran nghich dao bang Gauss Jordan
+    10. Tri rieng, vector rieng cua ma tran
+
+----------------MENU---------------
+
+Press ESC to exit !
+-->> 0. Thoat
+    1. Random ma tran
+    2. Cong 2 ma tran
+    3. Tru 2 ma tran
+    4. Nhan 2 ma tran
+    5. Nhan vo huong
+    6. Dinh thuc cua ma tran
+    7. Hang cua ma tran
+    8. Ma tran nghich dao bang phu dai so
+    9. Ma tran nghich dao bang Gauss Jordan
+    10. Tri rieng, vector rieng cua ma tran
+
+----------------MENU---------------
+
+Press ESC to exit !
+    0. Thoat
+-->> 1. Random ma tran
+    2. Cong 2 ma tran
+    3. Tru 2 ma tran
+    4. Nhan 2 ma tran
+    5. Nhan vo huong
+    6. Dinh thuc cua ma tran
+    7. Hang cua ma tran
+    8. Ma tran nghich dao bang phu dai so
+    9. Ma tran nghich dao bang Gauss Jordan
+    10. Tri rieng, vector rieng cua ma tran
+
+----------------MENU---------------
+
+Press ESC to exit !
+    0. Thoat
+-->> 1. Random ma tran
+    2. Cong 2 ma tran
+    3. Tru 2 ma tran
+    4. Nhan 2 ma tran
+    5. Nhan vo huong
+    6. Dinh thuc cua ma tran
+    7. Hang cua ma tran
+    8. Ma tran nghich dao bang phu dai so
+    9. Ma tran nghich dao bang Gauss Jordan
+    10. Tri rieng, vector rieng cua ma tran
+
+----------------MENU---------------
+
+Press ESC to exit !
+    0. Thoat
+    1. Random ma tran
+-->> 2. Cong 2 ma tran
+    3. Tru 2 ma tran
+    4. Nhan 2 ma tran
+    5. Nhan vo huong
+    6. Dinh thuc cua ma tran
+    7. Hang cua ma tran
+    8. Ma tran nghich dao bang phu dai so
+    9. Ma tran nghich dao bang Gauss Jordan
+    10. Tri rieng, vector rieng cua ma tran
+
+2. Cong 2 ma tran
+Input ma tran A: 
+3 3
+    1.000000      2.000000      3.000000  
+    1.000000      2.000000      3.000000  
+    1.000000      2.000000      3.000000  
+****************************************************************************************************
+
+Input ma tran B: 
+3 3
+    1.000000      2.000000      3.000000  
+    1.000000      2.000000      3.000000  
+    1.000000      2.000000      3.000000  
+****************************************************************************************************
+
+Ma tran tong: 
+    2.000000      4.000000      6.000000  
+    2.000000      4.000000      6.000000  
+    2.000000      4.000000      6.000000  
+****************************************************************************************************
